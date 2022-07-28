@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/dpfpverification.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/base64-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/dpotjni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/gson-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/Notify.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/Detectar_Windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/JTattoo-1.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/dpotapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/dpfpenrollment.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/Librerias/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

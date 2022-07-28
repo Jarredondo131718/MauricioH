@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PluginBiometricoV31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/dist/PluginBiometricoV3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

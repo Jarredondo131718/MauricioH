@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ffjcext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PluginBiometricoV3/compressed/jre/lib/deploy/ffjcext.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
